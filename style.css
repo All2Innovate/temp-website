@@ -1,0 +1,23 @@
+html {
+  height: 100vh;
+  margin: 0;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+  background-image: url("bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  display: flex;
+  align-items: center;
+}
+
+h1 {
+  margin: 0;
+  font-size: 12rem;
+  max-width: 50vw;
+  text-align: center;
+  font-family: math;
+}
